@@ -1,6 +1,6 @@
 # collect-citations-skill
 
-A Claude AI skill that processes citation reports produced by the [citation-needed skill](#) into polished, numbered citation appendices — and optionally applies inline citation markers and factual corrections back into your source documents.
+A Claude AI skill that processes citation reports produced by the [citation-needed skill](https://github.com/MushroomFleet/citation-needed-skill) into polished, numbered citation appendices — and optionally applies inline citation markers and factual corrections back into your source documents.
 
 ---
 
